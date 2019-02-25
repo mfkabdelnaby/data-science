@@ -1,7 +1,11 @@
 # Data Science Using Python
 
-The main purpose that made me learn Python is to use it for Data Science and Machine Learning (ML) applications. Therefore, I am currently following the track of learning the different ML tools and functions in Python.
+I am still a fresher in Python in general, and machine learing (ML) in particular, but here is my progress so far in this area. Have a look on the workbooks for the fundamental packages to learn ML
 
-I am going to spend at least 1 hour a day to learn something new in this area from multiple sources, which will be immediately shared here.
+* [matlibplot](https://github.com/mustafarrag/data-science/blob/master/matplotlib.ipynb): A package used for plotting
+* [numpy](https://github.com/mustafarrag/data-science/blob/master/numpy.ipynb): A package useful for dealing with arrays and matrices 
+* [pandas](https://github.com/mustafarrag/data-science/blob/master/pandas.ipynb): A package useful for dealing with databases
 
-Wish me luck :))
+
+Have fun learning with me! and update me of your feedback :)
+
