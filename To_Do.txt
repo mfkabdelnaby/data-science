@@ -1,8 +1,0 @@
-Biggeners Tutoral for:
-
-* Matplotlib
-* Pandas
-* NumPy
-* SkitLearn
-* Tenserflow
-* 
