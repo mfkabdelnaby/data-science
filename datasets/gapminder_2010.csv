@@ -1,0 +1,203 @@
+Country,Year,fertility,life,population,child_mortality,gdp,region
+Afghanistan,2010,5.659,59.612,31411743,105,1637,South Asia
+Albania,2010,1.741,76.78,3204284,16.6,9374,Europe & Central Asia
+Algeria,2010,2.817,70.615,35468208,27.4,12494,Middle East & North Africa
+Angola,2010,6.218,50.689,19081912,182.5,7047,Sub-Saharan Africa
+Antigua and Barbuda,2010,2.13,75.437,88710,9.9,20567,America
+Argentina,2010,2.215,75.772,40412376,14.6,15765,America
+Armenia,2010,1.55,74.291,3092072,18,6508,Europe & Central Asia
+Aruba,2010,1.701,75.059,107488,17.84,33288,America
+Australia,2010,1.886,82.091,22268384,4.8,41330,East Asia & Pacific
+Austria,2010,1.438,80.595,8393644,4.4,42861,Europe & Central Asia
+Azerbaijan,2010,1.97,70.518,9187783,39,15950,Europe & Central Asia
+Bahamas,2010,1.901,74.757,342877,13.9,22915,America
+Bahrain,2010,2.142,76.203,1261835,8.3,40553,Middle East & North Africa
+Bangladesh,2010,2.277,69.449,148692131,49.6,2459,South Asia
+Barbados,2010,1.839,74.875,273331,14.7,15297,America
+Belarus,2010,1.46,69.613,9595421,6.1,15703,Europe & Central Asia
+Belgium,2010,1.842,80.007,10712066,4.5,40764,Europe & Central Asia
+Belize,2010,2.801,73.24,311627,19,8209,America
+Benin,2010,5.095,58.797,8849892,111.6,1637,Sub-Saharan Africa
+Bhutan,2010,2.375,67.015,725940,42.3,6516,South Asia
+Bolivia,2010,3.357,66.362,9929849,47,5279,America
+Bosnia and Herzegovina,2010,1.242,75.898,3760149,7.5,9145,Europe & Central Asia
+Botswana,2010,2.761,46.588,2006945,60.3,13642,Sub-Saharan Africa
+Brazil,2010,1.838,73.121,194946470,16.7,14660,America
+Brunei,2010,2.051,77.956,398920,9.3,70636,East Asia & Pacific
+Bulgaria,2010,1.485,73.243,7494332,13,14886,Europe & Central Asia
+Burkina Faso,2010,5.869,55.081,16468714,113.5,1431,Sub-Saharan Africa
+Burundi,2010,6.304,52.638,8382849,98.8,725,Sub-Saharan Africa
+Cambodia,2010,2.966,70.811,14138255,43.1,2513,East Asia & Pacific
+Cameroon,2010,5.017,53.718,19598889,106,2571,Sub-Saharan Africa
+Canada,2010,1.6269,80.986,34016593,5.6,40773,America
+Cape Verde,2010,2.427,74.094,495999,27.9,6005,Sub-Saharan Africa
+Central African Rep.,2010,4.626,48.139,4401051,,,Sub-Saharan Africa
+Chad,2010,6.596,49.794,11227208,160.1,1953,Sub-Saharan Africa
+Channel Islands,2010,1.436,79.902,153352,9.57,,Europe & Central Asia
+Chile,2010,1.858,79.168,17113688,8.8,19204,America
+China,2010,1.65,74.868,1341335152,15.7,9430,East Asia & Pacific
+Colombia,2010,2.376,73.424,46294841,18.5,10777,America
+Comoros,2010,4.919,60.223,734750,86,1426,Sub-Saharan Africa
+"Congo, Dem. Rep.",2010,6.251,49.01,65965795,116.1,632,Sub-Saharan Africa
+"Congo, Rep.",2010,5.072,57.229,4042899,60.6,5533,Sub-Saharan Africa
+Costa Rica,2010,1.847,79.28,4658887,10.2,12322,America
+Cote d'Ivoire,2010,4.91,49.642,19737800,110.1,2892,Sub-Saharan Africa
+Croatia,2010,1.465,76.54,4403330,5.4,19989,Europe & Central Asia
+Cuba,2010,1.467,78.736,11257979,6.6,18477,America
+Cyprus,2010,1.478,79.348,1103647,3.9,33747,Europe & Central Asia
+Czech Rep.,2010,1.501,77.267,10492960,,,Europe & Central Asia
+Denmark,2010,1.8751,78.969,5550142,4,42997,Europe & Central Asia
+Djibouti,2010,3.604,60.307,888716,76.1,2665,Middle East & North Africa
+Dominican Rep.,2010,2.584,72.734,9927320,,,America
+Ecuador,2010,2.655,75.647,14464739,25.2,9311,America
+Egypt,2010,2.883,70.478,81121077,29,10615,Middle East & North Africa
+El Salvador,2010,2.263,71.88,6192993,20,7237,America
+Equatorial Guinea,2010,5.14,51.483,700401,110.9,34431,Sub-Saharan Africa
+Eritrea,2010,4.968,61.275,5253676,55.6,1083,Sub-Saharan Africa
+Estonia,2010,1.625,74.094,1341140,4.5,21710,Europe & Central Asia
+Ethiopia,2010,4.902,61.486,82949541,75.7,1081,Sub-Saharan Africa
+Fiji,2010,2.67,69.258,860623,23.9,7098,East Asia & Pacific
+Finland,2010,1.87,79.987,5364546,3,39425,Europe & Central Asia
+France,2010,1.981,81.35,62787427,4.3,36745,Europe & Central Asia
+French Guiana,2010,3.159,76.426,231151,11.41,,America
+French Polynesia,2010,2.11,75.618,270764,8.64,,East Asia & Pacific
+Gabon,2010,4.214,62.333,1505463,63,15982,Sub-Saharan Africa
+Gambia,2010,5.796,58.109,1728394,81.4,1667,Sub-Saharan Africa
+Georgia,2010,1.82,73.883,4352244,16.6,5938,Europe & Central Asia
+Germany,2010,1.386,80.23972189,82302465,4.2,40632,Europe & Central Asia
+Ghana,2010,4.052,60.626,24391823,74.7,3091,Sub-Saharan Africa
+Greece,2010,1.499,80.23,11359346,4.7,29190,Europe & Central Asia
+Greenland,2010,2.195,70.775,57296,,24966,Europe & Central Asia
+Grenada,2010,2.24,72.375,104487,13.2,11178,America
+Guadeloupe,2010,2.123,80.141,460666,7.07,,America
+Guam,2010,2.472,78.046,179896,12.15,,East Asia & Pacific
+Guatemala,2010,3.974,71.1,14388929,34.5,6849,America
+Guinea,2010,5.174,55.317,9981590,111.9,1185,Sub-Saharan Africa
+Guinea-Bissau,2010,5.115,53.578,1515224,115.9,1368,Sub-Saharan Africa
+Guyana,2010,2.682,65.775,754493,41.5,5542,America
+Haiti,2010,3.35,45,9993247,208.8,1518,America
+Honduras,2010,3.154,72.854,7600524,24.4,4270,America
+"Hong Kong, China",2010,1.075,82.84,7053189,2.85,48108,East Asia & Pacific
+Hungary,2010,1.364,74.227,9983645,6.6,22062,Europe & Central Asia
+Iceland,2010,2.119,81.707,320136,2.4,38809,Europe & Central Asia
+India,2010,2.563,65.65,1224614327,59.9,4547,South Asia
+Indonesia,2010,2.434,70.185,239870937,33.1,8498,East Asia & Pacific
+Iran,2010,1.904,73.094,73973630,19.2,16980,Middle East & North Africa
+Iraq,2010,4.211,68.753,31671591,36.6,12330,Middle East & North Africa
+Ireland,2010,2.003,80.151,4469900,4.2,43860,Europe & Central Asia
+Israel,2010,2.92,81.295,7418400,4.6,29509,Middle East & North Africa
+Italy,2010,1.435,81.923,60550848,4,35753,Europe & Central Asia
+Jamaica,2010,2.334,72.897,2741052,18.1,8370,America
+Japan,2010,1.374,83.092,126535920,3.2,34404,East Asia & Pacific
+Jordan,2010,3.458,73.39,6187227,20.8,11256,Middle East & North Africa
+Kazakhstan,2010,2.538,66.108,16026367,21.6,19601,Europe & Central Asia
+Kenya,2010,4.616,59.58,40512682,63.6,2503,Sub-Saharan Africa
+Kiribati,2010,3.048,67.945,99546,62.9,1729,East Asia & Pacific
+"Korea, Dem. Rep.",2010,2.003,69.118,24346229,,,East Asia & Pacific
+"Korea, Rep.",2010,1.266,80.772,48183584,,,East Asia & Pacific
+Kuwait,2010,2.673,73.992,2736732,10.8,75365,Middle East & North Africa
+Kyrgyzstan,2010,2.974,67.054,5334223,,,Europe & Central Asia
+Laos,2010,3.29,66.957,6200894,,,East Asia & Pacific
+Latvia,2010,1.553,71.836,2252060,9.4,18148,Europe & Central Asia
+Lebanon,2010,1.513,79.11,4227597,10.1,16263,Middle East & North Africa
+Lesotho,2010,3.207,47.584,2171318,101.5,2235,Sub-Saharan Africa
+Liberia,2010,5.024,59.459,3994122,89.3,689,Sub-Saharan Africa
+Libya,2010,2.525,74.732,6355112,16.6,30261,Middle East & North Africa
+Lithuania,2010,1.468,71.631,3323611,6.8,20758,Europe & Central Asia
+Luxembourg,2010,1.64,80.004,507448,2.4,91147,Europe & Central Asia
+"Macao, China",2010,1.003,79.754,543656,6.14,98722,East Asia & Pacific
+"Macedonia, FYR",2010,1.452,74.731,2060563,9.9,11179,Europe & Central Asia
+Madagascar,2010,4.654,63.38,20713819,60.3,1390,Sub-Saharan Africa
+Malawi,2010,5.636,53.536,14900841,92,737,Sub-Saharan Africa
+Malaysia,2010,2.002,74.479,28401017,8.3,20398,East Asia & Pacific
+Maldives,2010,2.339,76.779,315885,13,11674,South Asia
+Mali,2010,6.841,53.788,15369809,136.6,1664,Sub-Saharan Africa
+Malta,2010,1.373,79.225,416515,6.4,27906,Europe & Central Asia
+Martinique,2010,1.87,80.71,405814,8.17,,America
+Mauritania,2010,4.837,61.064,3459773,97.8,3299,Sub-Saharan Africa
+Mauritius,2010,1.521,73.142,1299172,15.2,15599,Sub-Saharan Africa
+Mayotte,2010,4.082,78.519,204114,5.56,,Sub-Saharan Africa
+Mexico,2010,2.281,76.836,113423047,16.8,15460,America
+"Micronesia, Fed. Sts.",2010,3.46,68.654,111064,40.7,3337,East Asia & Pacific
+Moldova,2010,1.477,68.541,3572885,17.1,3925,Europe & Central Asia
+Mongolia,2010,2.437,66.825,2756001,30,7708,East Asia & Pacific
+Montenegro,2010,1.698,74.489,631490,6.8,13656,Europe & Central Asia
+Morocco,2010,2.583,70.246,31951412,33.1,6466,Middle East & North Africa
+Mozambique,2010,5.409,49.204,23390765,103.8,930,Sub-Saharan Africa
+Myanmar,2010,2.003,64.658,47963012,59.3,3077,East Asia & Pacific
+Namibia,2010,3.229,62.594,2283289,55.4,8433,Sub-Saharan Africa
+Nepal,2010,2.619,67.113,29959364,45.4,1999,South Asia
+Netherlands,2010,1.796,80.621,16612988,4.4,45843,Europe & Central Asia
+Netherlands Antilles,2010,1.94,76.518,200689,,,America
+New Caledonia,2010,2.193,75.674,250870,16.32,,East Asia & Pacific
+New Zealand,2010,2.115,80.67,4368136,6.2,31824,East Asia & Pacific
+Nicaragua,2010,2.631,73.84,5788163,26.1,3966,America
+Niger,2010,7.584,56.956,15511953,123.6,841,Sub-Saharan Africa
+Nigeria,2010,6.022,51.297,158423182,130.3,5114,Sub-Saharan Africa
+Norway,2010,1.95,81.064,4883111,3.2,62946,Europe & Central Asia
+Oman,2010,2.901,75.721,2782435,11.7,49188,Middle East & North Africa
+Pakistan,2010,3.43,66.11,173593383,91.8,4220,South Asia
+Panama,2010,2.549,76.916,3516820,19.8,14921,America
+Papua New Guinea,2010,3.954,61.994,6858266,66.1,2163,East Asia & Pacific
+Paraguay,2010,2.968,72.016,6454548,24.1,7008,America
+Peru,2010,2.511,73.912,29076512,21,9915,America
+Philippines,2010,3.151,68.207,93260798,31.9,5614,East Asia & Pacific
+Poland,2010,1.372,75.902,38276660,5.8,21328,Europe & Central Asia
+Portugal,2010,1.333,79.291,10675572,3.9,27393,Europe & Central Asia
+Puerto Rico,2010,1.664,78.326,3749009,8.18,34454,America
+Qatar,2010,2.085,77.959,1758793,9,127984,Middle East & North Africa
+Reunion,2010,2.327,78.879,846068,5.56,,Sub-Saharan Africa
+Romania,2010,1.372,73.476,21486371,13.9,16888,Europe & Central Asia
+Russia,2010,1.569,67.622,142958164,12,21664,Europe & Central Asia
+Rwanda,2010,4.841,62.276,10624005,64.2,1262,Sub-Saharan Africa
+Saint Lucia,2010,1.982,74.425,174267,,,America
+Saint Vincent and the Grenadines,2010,2.07,72.174,109333,,,America
+Samoa,2010,4.338,72.283,183081,18.7,5405,East Asia & Pacific
+Sao Tome and Principe,2010,4.287,65.93,165397,56.4,2743,Sub-Saharan Africa
+Saudi Arabia,2010,2.829,74.832,27448086,17,45598,Middle East & North Africa
+Senegal,2010,5.05,62.934,12433728,64.8,2182,Sub-Saharan Africa
+Serbia,2010,1.38,73.676,9856222,7.6,12301,Europe & Central Asia
+Seychelles,2010,2.257,72.724,86518,14.2,20364,Sub-Saharan Africa
+Sierra Leone,2010,4.943,44.846,5867536,160.2,1347,Sub-Saharan Africa
+Singapore,2010,1.261,81.788,5086418,2.8,72056,East Asia & Pacific
+Slovak Republic,2010,1.35,75.02,5462119,8.1,24438,Europe & Central Asia
+Slovenia,2010,1.478,79.125,2029680,3.3,28377,Europe & Central Asia
+Solomon Islands,2010,4.236,67.027,538148,32.1,1787,East Asia & Pacific
+Somalia,2010,6.869,53,9330872,160.2,614,Sub-Saharan Africa
+South Africa,2010,2.467,54.547,50132817,54.4,12087,Sub-Saharan Africa
+South Sudan,2010,5.194,53.488,9415421,110.9,3838,Sub-Saharan Africa
+Spain,2010,1.457,81.656,46076989,4.6,32994,Europe & Central Asia
+Sri Lanka,2010,2.343,73.79,20859949,10.6,7572,South Asia
+Sudan,2010,4.637,61.49,34136520,80.2,3282,Sub-Saharan Africa
+Suriname,2010,2.345,70.309,524636,24.9,14325,America
+Swaziland,2010,3.559,48.398,1186056,90.9,5862,Sub-Saharan Africa
+Sweden,2010,1.987,81.426,9379687,3.1,42898,Europe & Central Asia
+Switzerland,2010,1.5,82.192,7664318,4.5,54183,Europe & Central Asia
+Syria,2010,3.078,74.693,20410606,15.3,6603,Middle East & North Africa
+Taiwan,2010,0.895,79.15,23025000,,39085,East Asia & Pacific
+Tajikistan,2010,3.78,66.83,6878637,52.6,2110,Europe & Central Asia
+Tanzania,2010,5.428,59.224,44841226,62.3,2143,Sub-Saharan Africa
+Thailand,2010,1.443,73.852,69122234,14.5,12822,East Asia & Pacific
+Timor-Leste,2010,6.237,65.952,1124355,63.8,1777,East Asia & Pacific
+Togo,2010,4.792,55.514,6027798,90.9,1246,Sub-Saharan Africa
+Tonga,2010,3.914,72.209,104058,17.4,4945,East Asia & Pacific
+Trinidad and Tobago,2010,1.802,69.55,1341465,23.6,29321,America
+Tunisia,2010,2.044,75.147,10480934,17.4,10411,Middle East & North Africa
+Turkey,2010,2.101,74.274,72752325,19.1,16674,Europe & Central Asia
+Turkmenistan,2010,2.412,65,5041995,60.1,10032,Europe & Central Asia
+Uganda,2010,6.155,57.319,33424683,79.5,1515,Sub-Saharan Africa
+Ukraine,2010,1.435,68.188,45448329,11.8,7844,Europe & Central Asia
+United Arab Emirates,2010,1.868,76.325,7511690,8.5,56644,Middle East & North Africa
+United Kingdom,2010,1.899,80.085,62035570,5.2,36240,Europe & Central Asia
+United States,2010,1.928,78.507,310383948,7.4,49373,America
+Uruguay,2010,2.08,76.787,3368786,12.3,17095,America
+Uzbekistan,2010,2.41,67.871,27444702,46.1,4185,Europe & Central Asia
+Vanuatu,2010,3.499,70.761,239651,28.5,2948,East Asia & Pacific
+Venezuela,2010,2.472,74.159,28979857,16.6,16536,America
+Vietnam,2010,1.82,75.49,87848445,24.8,4486,East Asia & Pacific
+Virgin Islands (U.S.),2010,2.493,79.463,109056,11.62,,America
+West Bank and Gaza,2010,4.216,72.64,4039192,23.8,4163,Middle East & North Africa
+Western Sahara,2010,2.471,66.844,530500,50.71,,Middle East & North Africa
+"Yemen, Rep.",2010,4.498,62.536,24052514,,,Middle East & North Africa
+Zambia,2010,5.813,54.549,13088570,84.8,3451,Sub-Saharan Africa
+Zimbabwe,2010,3.721,53.684,12571454,95.1,1484,Sub-Saharan Africa
