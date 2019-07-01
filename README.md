@@ -15,7 +15,7 @@ I am including complete data science guide for beginners. This repo is going to 
 ### Data Visualization
 A list of important packages for plotting includes
 * [matplotlib](https://github.com/mustafarrag/data-science/blob/master/matplotlib.ipynb)
-* [seaborn] (https://github.com/mustafarrag/data-science/blob/master/data-visualizations/seaborn.ipynb)
+* [seaborn](https://github.com/mustafarrag/data-science/blob/master/data-visualizations/seaborn.ipynb)
 * [Bokeh](https://github.com/mustafarrag/data-science/blob/master/data-visualizations/Bokeh.ipynb)
 * [ggplot] coming soon!
 * [plotly] coming soon!
