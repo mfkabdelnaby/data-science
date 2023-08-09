@@ -22,7 +22,7 @@ A list of important packages for plotting includes
 
 ## Cheatsheets
 
-* [pandas cheatsheet](https://github.com/mustafarrag/data-science/blob/master/cheatsheets/pandas.pdf)
+* [pandas cheatsheet](https://github.com/mustafarrag/data-science/tree/master/cheatsheets)
 
 Have fun learning with me! and update me of your feedback :)
 
